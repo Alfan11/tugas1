@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tugas1</string>
+    <string-array name="nama_kota">
+        <item>Asal</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+        <item>Jogjakarta</item>
+        <item>Bandung</item>
+        <item>Yanglain</item>
+    </string-array>
+</resources>
