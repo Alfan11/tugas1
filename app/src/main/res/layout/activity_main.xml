@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -163,7 +163,8 @@
             android:text="DAFTAR"
             android:id="@+id/button"
             android:layout_alignBottom="@+id/checkBoxL"
-            android:layout_centerHorizontal="true" />
+            android:layout_centerHorizontal="true"
+            android:textColorHighlight="@color/colorAccent" />
 
     </RelativeLayout>
 

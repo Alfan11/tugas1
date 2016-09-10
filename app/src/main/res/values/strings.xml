@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">tugas1</string>
     <string-array name="nama_kota">
-        <item>Asal</item>
+        <item></item>
         <item>Malang</item>
         <item>Surabaya</item>
         <item>Jakarta</item>

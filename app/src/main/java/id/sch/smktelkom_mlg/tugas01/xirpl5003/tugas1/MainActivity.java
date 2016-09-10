@@ -11,6 +11,7 @@ import android.widget.RadioButton;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+
 public class MainActivity extends AppCompatActivity {
     EditText etNama;
     EditText etTahun;
@@ -61,10 +62,9 @@ public class MainActivity extends AppCompatActivity {
                 if (cbT.isChecked()) hsl2 += cbT.getText() + "\n";
                 if (cbM.isChecked()) hsl2 += cbM.getText() + "\n";
                 if (cbL.isChecked()) hsl2 += cbL.getText() + "\n";
+                if (hsl2.length() == startlen) hsl2 += "Anda tidak punya kesukaan";
 
-                if (hsl2.length() == startlen) hsl2 += "Belum Pernah Memilih";
-
-                tvHasil.setText("Nama Depan :\n" + nama + "\n\nTahun : \n" + tahun + "\n\nJenis Kelamim : \n" + hsl1 + "\n\n Asal Kota : \n" + asal + "\n\n" + hsl2);
+                tvHasil.setText("Nama  :\n" + nama + "\n\nTahun Lahir : \n" + tahun + "\n\nJenis Kelamim : \n" + hsl1 + "\n\n Asal Kota : \n" + asal + "\n\n" + hsl2);
             }
         });
 
@@ -73,13 +73,12 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void doProcess()
-    {
+    private void doHasil()
+        {
         if(isValid())
         {
             String nama =  etNama.getText().toString();
             int tahun = Integer.parseInt(etTahun.getText().toString());
-
 
 
         }
@@ -91,6 +90,7 @@ public class MainActivity extends AppCompatActivity {
 
         String nama = etNama.getText().toString();
         String tahun = etTahun.getText().toString();
+
 
         if(nama.isEmpty())
         {
