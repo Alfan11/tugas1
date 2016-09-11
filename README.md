@@ -1,11 +1,15 @@
 # tugas1
 Nama : Alfan Cahyo Wicaksono
-Kelas : XIRPL 5 
+
+Kelas : XIRPL 5
+
 No urut : 03
+
 NIS : 4655/1374.070
+
 Nama Sekolah : SMK TELKOM MALANG
 
-    <h1>Penjelasan Aplikasi : </h1>
+    Penjelasan Aplikasi : 
   Saya membuat sebuah aplikasi sederhana yaitu form isian.Form ini berisikan nama,
 tahun lahir,gender,asal kota,dan hal hal yang disukai.Form ini dibuat agar bisa menghasilkan
 output sesuai dengan apa yang diinputkan user.Di form tersebut user diminta menginputkan
@@ -16,10 +20,10 @@ dan data user akan muncul sesuai apa yang diinputkannya tadi.
 
 
 
-    <h1>Screenshoot :</h1> 
+    Screenshoot : 
 ![Pertama](https://github.com/Alfan11/tugas1/blob/master/Screenshot_2016-09-10-17-08-36.jpg)
 ![Kedua](https://github.com/Alfan11/tugas1/blob/master/Screenshot_2016-09-10-17-18-33_1.jpg)
 ![Ketiga](https://github.com/Alfan11/tugas1/blob/master/WhatsApp%20Image%202016-09-10%20at%2017.00.21.jpeg)
 
-    <h1>Link APK :</h1>
+    Link APK :
 https://drive.google.com/drive/folders/0B_uSHR_xG3K2aV8tLVRqTzBVOTQ?usp=sharing
