@@ -26,4 +26,6 @@ dan data user akan muncul sesuai apa yang diinputkannya tadi.
 ![Ketiga](https://github.com/Alfan11/tugas1/blob/master/WhatsApp%20Image%202016-09-10%20at%2017.00.21.jpeg)
 
     Link APK :
-https://drive.google.com/drive/folders/0B_uSHR_xG3K2aV8tLVRqTzBVOTQ?usp=sharing
+
+https://drive.google.com/file/d/0B_uSHR_xG3K2dlVqSzMta1VxM28/view?usp=sharing
+
